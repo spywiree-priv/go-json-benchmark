@@ -4,24 +4,24 @@ title Marshal - canada_geometry (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                 
-397 :0, 397
-section encoding/json-4         
-140 :0, 140
-section go-json-experiment/json-4         
-137 :0, 137
-section goccy/go-json-4                   
-166 :0, 166
-section json-iterator/go-4                
-162 :0, 162
-section mailru/easyjson-4                 
-171 :0, 171
-section segmentio/encodinng-4             
-170 :0, 170
-section sugawarayuuta/sonnet-4            
-156 :0, 156
-section wI2L/jettison-4                   
-164 :0, 164
+section bytedance/sonic-8                 
+345 :0, 345
+section encoding/json-8         
+130 :0, 130
+section go-json-experiment/json-8         
+121 :0, 121
+section goccy/go-json-8                   
+139 :0, 139
+section json-iterator/go-8                
+141 :0, 141
+section mailru/easyjson-8                 
+157 :0, 157
+section segmentio/encodinng-8             
+151 :0, 151
+section sugawarayuuta/sonnet-8            
+128 :0, 128
+section wI2L/jettison-8                   
+148 :0, 148
 ```
 
 ```mermaid
@@ -30,24 +30,24 @@ title Marshal - citm_catalog (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                    
-3357 :0, 3357
-section encoding/json-4                      
-1332 :0, 1332
-section go-json-experiment/json-4            
-879 :0, 879
-section goccy/go-json-4                      
-2563 :0, 2563
-section json-iterator/go-4                   
-1369 :0, 1369
-section mailru/easyjson-4                    
-1789 :0, 1789
-section segmentio/encodinng-4                
-2106 :0, 2106
-section sugawarayuuta/sonnet-4               
-2057 :0, 2057
-section wI2L/jettison-4                      
-2013 :0, 2013
+section bytedance/sonic-8                    
+3370 :0, 3370
+section encoding/json-8                      
+1160 :0, 1160
+section go-json-experiment/json-8            
+776 :0, 776
+section goccy/go-json-8                      
+2306 :0, 2306
+section json-iterator/go-8                   
+1510 :0, 1510
+section mailru/easyjson-8                    
+1738 :0, 1738
+section segmentio/encodinng-8                
+1905 :0, 1905
+section sugawarayuuta/sonnet-8               
+1991 :0, 1991
+section wI2L/jettison-8                      
+1740 :0, 1740
 ```
 
 ```mermaid
@@ -56,24 +56,24 @@ title Marshal - golang_source (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                   
-1040 :0, 1040
-section encoding/json-4                     
-355 :0, 355
-section go-json-experiment/json-4           
-272 :0, 272
-section goccy/go-json-4                     
-542 :0, 542
-section json-iterator/go-4                  
-353 :0, 353
-section mailru/easyjson-4                   
-478 :0, 478
-section segmentio/encodinng-4               
-556 :0, 556
-section sugawarayuuta/sonnet-4              
-508 :0, 508
-section wI2L/jettison-4                     
-412 :0, 412
+section bytedance/sonic-8                   
+483 :0, 483
+section encoding/json-8                     
+294 :0, 294
+section go-json-experiment/json-8           
+220 :0, 220
+section goccy/go-json-8                     
+436 :0, 436
+section json-iterator/go-8                  
+325 :0, 325
+section mailru/easyjson-8                   
+406 :0, 406
+section segmentio/encodinng-8               
+414 :0, 414
+section sugawarayuuta/sonnet-8              
+415 :0, 415
+section wI2L/jettison-8                     
+310 :0, 310
 ```
 
 ```mermaid
@@ -82,24 +82,24 @@ title Marshal - string_unicode (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                  
-4243 :0, 4243
-section encoding/json-4                    
-466 :0, 466
-section go-json-experiment/json-4          
-522 :0, 522
-section goccy/go-json-4                    
-473 :0, 473
-section json-iterator/go-4                 
-506 :0, 506
-section mailru/easyjson-4                  
-540 :0, 540
-section segmentio/encodinng-4              
-444 :0, 444
-section sugawarayuuta/sonnet-4             
-559 :0, 559
-section wI2L/jettison-4                    
-490 :0, 490
+section bytedance/sonic-8                  
+3700 :0, 3700
+section encoding/json-8                    
+411 :0, 411
+section go-json-experiment/json-8          
+451 :0, 451
+section goccy/go-json-8                    
+387 :0, 387
+section json-iterator/go-8                 
+408 :0, 408
+section mailru/easyjson-8                  
+470 :0, 470
+section segmentio/encodinng-8              
+376 :0, 376
+section sugawarayuuta/sonnet-8             
+494 :0, 494
+section wI2L/jettison-8                    
+420 :0, 420
 ```
 
 ```mermaid
@@ -108,24 +108,24 @@ title Marshal - synthea_fhir (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                    
-407 :0, 407
-section encoding/json-4                      
-164 :0, 164
-section go-json-experiment/json-4            
-164 :0, 164
-section goccy/go-json-4                      
-315 :0, 315
-section json-iterator/go-4                   
-190 :0, 190
-section mailru/easyjson-4                    
-382 :0, 382
-section segmentio/encodinng-4                
-376 :0, 376
-section sugawarayuuta/sonnet-4               
-267 :0, 267
-section wI2L/jettison-4                      
-264 :0, 264
+section bytedance/sonic-8                    
+177 :0, 177
+section encoding/json-8                      
+115 :0, 115
+section go-json-experiment/json-8            
+64 :0, 64
+section goccy/go-json-8                      
+111 :0, 111
+section json-iterator/go-8                   
+103 :0, 103
+section mailru/easyjson-8                    
+253 :0, 253
+section segmentio/encodinng-8                
+160 :0, 160
+section sugawarayuuta/sonnet-8               
+204 :0, 204
+section wI2L/jettison-8                      
+186 :0, 186
 ```
 
 ```mermaid
@@ -134,24 +134,24 @@ title Marshal - twitter_status (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                  
-2361 :0, 2361
-section encoding/json-4                    
-623 :0, 623
-section go-json-experiment/json-4          
-490 :0, 490
-section goccy/go-json-4                    
-1008 :0, 1008
-section json-iterator/go-4                 
-510 :0, 510
-section mailru/easyjson-4                  
-810 :0, 810
-section segmentio/encodinng-4              
-942 :0, 942
-section sugawarayuuta/sonnet-4             
-846 :0, 846
-section wI2L/jettison-4                    
-710 :0, 710
+section bytedance/sonic-8                  
+1842 :0, 1842
+section encoding/json-8                    
+483 :0, 483
+section go-json-experiment/json-8          
+363 :0, 363
+section goccy/go-json-8                    
+697 :0, 697
+section json-iterator/go-8                 
+401 :0, 401
+section mailru/easyjson-8                  
+617 :0, 617
+section segmentio/encodinng-8              
+693 :0, 693
+section sugawarayuuta/sonnet-8             
+650 :0, 650
+section wI2L/jettison-8                    
+561 :0, 561
 ```
 
 ```mermaid
@@ -160,26 +160,26 @@ title Unmarshal - canada_geometry (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4               
-367 :0, 367
-section encoding/json-4                 
-62 :0, 62
-section go-json-experiment/json-4       
-105 :0, 105
-section goccy/go-json-4                 
-150 :0, 150
-section json-iterator/go-4              
-81 :0, 81
-section mailru/easyjson-4               
-154 :0, 154
-section minio/simdjson-go-4             
-141 :0, 141
-section segmentio/encodinng-4           
-166 :0, 166
-section sugawarayuuta/sonnet-4          
-271 :0, 271
-section valyala/fastjson-4              
-72 :0, 72
+section bytedance/sonic-8               
+280 :0, 280
+section encoding/json-8                 
+51 :0, 51
+section go-json-experiment/json-8       
+78 :0, 78
+section goccy/go-json-8                 
+113 :0, 113
+section json-iterator/go-8              
+61 :0, 61
+section mailru/easyjson-8               
+115 :0, 115
+section minio/simdjson-go-8             
+124 :0, 124
+section segmentio/encodinng-8           
+114 :0, 114
+section sugawarayuuta/sonnet-8          
+192 :0, 192
+section valyala/fastjson-8              
+52 :0, 52
 ```
 
 ```mermaid
@@ -188,26 +188,26 @@ title Unmarshal - citm_catalog (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                  
-726 :0, 726
-section encoding/json-4                    
-112 :0, 112
-section go-json-experiment/json-4          
-356 :0, 356
-section goccy/go-json-4                    
-550 :0, 550
-section json-iterator/go-4                 
-414 :0, 414
-section mailru/easyjson-4                  
-395 :0, 395
-section minio/simdjson-go-4                
-722 :0, 722
-section segmentio/encodinng-4              
-577 :0, 577
-section sugawarayuuta/sonnet-4             
-511 :0, 511
-section valyala/fastjson-4                 
-164 :0, 164
+section bytedance/sonic-8                  
+448 :0, 448
+section encoding/json-8                    
+83 :0, 83
+section go-json-experiment/json-8          
+246 :0, 246
+section goccy/go-json-8                    
+422 :0, 422
+section json-iterator/go-8                 
+321 :0, 321
+section mailru/easyjson-8                  
+295 :0, 295
+section minio/simdjson-go-8                
+664 :0, 664
+section segmentio/encodinng-8              
+448 :0, 448
+section sugawarayuuta/sonnet-8             
+375 :0, 375
+section valyala/fastjson-8                 
+140 :0, 140
 ```
 
 ```mermaid
@@ -216,26 +216,26 @@ title Unmarshal - golang_source (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                 
-309 :0, 309
-section encoding/json-4                   
-73 :0, 73
-section go-json-experiment/json-4         
-137 :0, 137
-section goccy/go-json-4                   
-322 :0, 322
-section json-iterator/go-4                
+section bytedance/sonic-8                 
+250 :0, 250
+section encoding/json-8                   
+56 :0, 56
+section go-json-experiment/json-8         
+110 :0, 110
+section goccy/go-json-8                   
 225 :0, 225
-section mailru/easyjson-4                 
-220 :0, 220
-section minio/simdjson-go-4               
-224 :0, 224
-section segmentio/encodinng-4             
-332 :0, 332
-section sugawarayuuta/sonnet-4            
-281 :0, 281
-section valyala/fastjson-4                
-98 :0, 98
+section json-iterator/go-8                
+168 :0, 168
+section mailru/easyjson-8                 
+160 :0, 160
+section minio/simdjson-go-8               
+165 :0, 165
+section segmentio/encodinng-8             
+248 :0, 248
+section sugawarayuuta/sonnet-8            
+191 :0, 191
+section valyala/fastjson-8                
+66 :0, 66
 ```
 
 ```mermaid
@@ -244,26 +244,26 @@ title Unmarshal - string_unicode (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                
-2401 :0, 2401
-section encoding/json-4                  
-165 :0, 165
-section go-json-experiment/json-4        
-389 :0, 389
-section goccy/go-json-4                  
-886 :0, 886
-section json-iterator/go-4               
-762 :0, 762
-section mailru/easyjson-4                
-1861 :0, 1861
-section minio/simdjson-go-4              
-513 :0, 513
-section segmentio/encodinng-4            
-207 :0, 207
-section sugawarayuuta/sonnet-4           
-396 :0, 396
-section valyala/fastjson-4               
-1805 :0, 1805
+section bytedance/sonic-8                
+1741 :0, 1741
+section encoding/json-8                  
+118 :0, 118
+section go-json-experiment/json-8        
+299 :0, 299
+section goccy/go-json-8                  
+732 :0, 732
+section json-iterator/go-8               
+547 :0, 547
+section mailru/easyjson-8                
+1302 :0, 1302
+section minio/simdjson-go-8              
+189 :0, 189
+section segmentio/encodinng-8            
+156 :0, 156
+section sugawarayuuta/sonnet-8           
+310 :0, 310
+section valyala/fastjson-8               
+839 :0, 839
 ```
 
 ```mermaid
@@ -272,26 +272,26 @@ title Unmarshal - synthea_fhir (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                  
-443 :0, 443
-section encoding/json-4                    
-101 :0, 101
-section go-json-experiment/json-4          
-248 :0, 248
-section goccy/go-json-4                    
-367 :0, 367
-section json-iterator/go-4                 
-311 :0, 311
-section mailru/easyjson-4                  
-325 :0, 325
-section minio/simdjson-go-4                
-594 :0, 594
-section segmentio/encodinng-4              
-283 :0, 283
-section sugawarayuuta/sonnet-4             
-337 :0, 337
-section valyala/fastjson-4                 
-160 :0, 160
+section bytedance/sonic-8                  
+393 :0, 393
+section encoding/json-8                    
+73 :0, 73
+section go-json-experiment/json-8          
+208 :0, 208
+section goccy/go-json-8                    
+253 :0, 253
+section json-iterator/go-8                 
+269 :0, 269
+section mailru/easyjson-8                  
+258 :0, 258
+section minio/simdjson-go-8                
+344 :0, 344
+section segmentio/encodinng-8              
+196 :0, 196
+section sugawarayuuta/sonnet-8             
+265 :0, 265
+section valyala/fastjson-8                 
+103 :0, 103
 ```
 
 ```mermaid
@@ -300,25 +300,25 @@ title Unmarshal - twitter_status (MB/s - higher is better)
 dateFormat X
 axisFormat %s
 
-section bytedance/sonic-4                
-577 :0, 577
-section encoding/json-4                  
-108 :0, 108
-section go-json-experiment/json-4        
-240 :0, 240
-section goccy/go-json-4                  
-427 :0, 427
-section json-iterator/go-4               
-306 :0, 306
-section mailru/easyjson-4                
-459 :0, 459
-section minio/simdjson-go-4              
-601 :0, 601
-section segmentio/encodinng-4            
-304 :0, 304
-section sugawarayuuta/sonnet-4           
-367 :0, 367
-section valyala/fastjson-4               
-279 :0, 279
+section bytedance/sonic-8                
+439 :0, 439
+section encoding/json-8                  
+92 :0, 92
+section go-json-experiment/json-8        
+213 :0, 213
+section goccy/go-json-8                  
+405 :0, 405
+section json-iterator/go-8               
+255 :0, 255
+section mailru/easyjson-8                
+364 :0, 364
+section minio/simdjson-go-8              
+450 :0, 450
+section segmentio/encodinng-8            
+223 :0, 223
+section sugawarayuuta/sonnet-8           
+241 :0, 241
+section valyala/fastjson-8               
+237 :0, 237
 ```
 
