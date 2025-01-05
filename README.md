@@ -5,23 +5,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                 
-345 :0, 345
+352 :0, 352
 section encoding/json-8         
-130 :0, 130
+111 :0, 111
 section go-json-experiment/json-8         
-121 :0, 121
+110 :0, 110
 section goccy/go-json-8                   
-139 :0, 139
+125 :0, 125
 section json-iterator/go-8                
-141 :0, 141
+123 :0, 123
 section mailru/easyjson-8                 
-157 :0, 157
+132 :0, 132
 section segmentio/encodinng-8             
-151 :0, 151
+146 :0, 146
 section sugawarayuuta/sonnet-8            
-128 :0, 128
+99 :0, 99
 section wI2L/jettison-8                   
-148 :0, 148
+95 :0, 95
 ```
 
 ```mermaid
@@ -31,23 +31,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                    
-3370 :0, 3370
+2765 :0, 2765
 section encoding/json-8                      
-1160 :0, 1160
+603 :0, 603
 section go-json-experiment/json-8            
-776 :0, 776
+476 :0, 476
 section goccy/go-json-8                      
-2306 :0, 2306
+1099 :0, 1099
 section json-iterator/go-8                   
-1510 :0, 1510
+570 :0, 570
 section mailru/easyjson-8                    
-1738 :0, 1738
+1642 :0, 1642
 section segmentio/encodinng-8                
-1905 :0, 1905
+1492 :0, 1492
 section sugawarayuuta/sonnet-8               
-1991 :0, 1991
+1580 :0, 1580
 section wI2L/jettison-8                      
-1740 :0, 1740
+1147 :0, 1147
 ```
 
 ```mermaid
@@ -57,23 +57,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                   
-483 :0, 483
+381 :0, 381
 section encoding/json-8                     
-294 :0, 294
+194 :0, 194
 section go-json-experiment/json-8           
-220 :0, 220
+190 :0, 190
 section goccy/go-json-8                     
-436 :0, 436
+321 :0, 321
 section json-iterator/go-8                  
-325 :0, 325
+221 :0, 221
 section mailru/easyjson-8                   
-406 :0, 406
+401 :0, 401
 section segmentio/encodinng-8               
-414 :0, 414
+285 :0, 285
 section sugawarayuuta/sonnet-8              
-415 :0, 415
+377 :0, 377
 section wI2L/jettison-8                     
-310 :0, 310
+284 :0, 284
 ```
 
 ```mermaid
@@ -83,23 +83,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                  
-3700 :0, 3700
+3740 :0, 3740
 section encoding/json-8                    
-411 :0, 411
+334 :0, 334
 section go-json-experiment/json-8          
-451 :0, 451
+318 :0, 318
 section goccy/go-json-8                    
-387 :0, 387
+372 :0, 372
 section json-iterator/go-8                 
-408 :0, 408
+379 :0, 379
 section mailru/easyjson-8                  
-470 :0, 470
+458 :0, 458
 section segmentio/encodinng-8              
-376 :0, 376
+299 :0, 299
 section sugawarayuuta/sonnet-8             
-494 :0, 494
+478 :0, 478
 section wI2L/jettison-8                    
-420 :0, 420
+427 :0, 427
 ```
 
 ```mermaid
@@ -109,23 +109,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                    
-177 :0, 177
+175 :0, 175
 section encoding/json-8                      
-115 :0, 115
+130 :0, 130
 section go-json-experiment/json-8            
-64 :0, 64
+118 :0, 118
 section goccy/go-json-8                      
-111 :0, 111
+166 :0, 166
 section json-iterator/go-8                   
-103 :0, 103
+110 :0, 110
 section mailru/easyjson-8                    
-253 :0, 253
+324 :0, 324
 section segmentio/encodinng-8                
-160 :0, 160
+213 :0, 213
 section sugawarayuuta/sonnet-8               
-204 :0, 204
+220 :0, 220
 section wI2L/jettison-8                      
-186 :0, 186
+187 :0, 187
 ```
 
 ```mermaid
@@ -135,23 +135,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                  
-1842 :0, 1842
+2148 :0, 2148
 section encoding/json-8                    
-483 :0, 483
+563 :0, 563
 section go-json-experiment/json-8          
-363 :0, 363
+388 :0, 388
 section goccy/go-json-8                    
-697 :0, 697
+721 :0, 721
 section json-iterator/go-8                 
-401 :0, 401
+458 :0, 458
 section mailru/easyjson-8                  
-617 :0, 617
+659 :0, 659
 section segmentio/encodinng-8              
-693 :0, 693
+778 :0, 778
 section sugawarayuuta/sonnet-8             
-650 :0, 650
+622 :0, 622
 section wI2L/jettison-8                    
-561 :0, 561
+648 :0, 648
 ```
 
 ```mermaid
@@ -161,23 +161,23 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8               
-280 :0, 280
+331 :0, 331
 section encoding/json-8                 
-51 :0, 51
+59 :0, 59
 section go-json-experiment/json-8       
-78 :0, 78
+77 :0, 77
 section goccy/go-json-8                 
-113 :0, 113
+121 :0, 121
 section json-iterator/go-8              
-61 :0, 61
+64 :0, 64
 section mailru/easyjson-8               
-115 :0, 115
+117 :0, 117
 section minio/simdjson-go-8             
-124 :0, 124
+135 :0, 135
 section segmentio/encodinng-8           
-114 :0, 114
+129 :0, 129
 section sugawarayuuta/sonnet-8          
-192 :0, 192
+242 :0, 242
 section valyala/fastjson-8              
 52 :0, 52
 ```
@@ -189,25 +189,25 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                  
-448 :0, 448
+462 :0, 462
 section encoding/json-8                    
-83 :0, 83
+72 :0, 72
 section go-json-experiment/json-8          
-246 :0, 246
+238 :0, 238
 section goccy/go-json-8                    
-422 :0, 422
+339 :0, 339
 section json-iterator/go-8                 
-321 :0, 321
+300 :0, 300
 section mailru/easyjson-8                  
-295 :0, 295
+317 :0, 317
 section minio/simdjson-go-8                
-664 :0, 664
+682 :0, 682
 section segmentio/encodinng-8              
-448 :0, 448
+366 :0, 366
 section sugawarayuuta/sonnet-8             
-375 :0, 375
+440 :0, 440
 section valyala/fastjson-8                 
-140 :0, 140
+156 :0, 156
 ```
 
 ```mermaid
@@ -217,25 +217,25 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                 
-250 :0, 250
-section encoding/json-8                   
-56 :0, 56
-section go-json-experiment/json-8         
-110 :0, 110
-section goccy/go-json-8                   
-225 :0, 225
-section json-iterator/go-8                
 168 :0, 168
+section encoding/json-8                   
+62 :0, 62
+section go-json-experiment/json-8         
+111 :0, 111
+section goccy/go-json-8                   
+176 :0, 176
+section json-iterator/go-8                
+175 :0, 175
 section mailru/easyjson-8                 
-160 :0, 160
+150 :0, 150
 section minio/simdjson-go-8               
-165 :0, 165
+170 :0, 170
 section segmentio/encodinng-8             
-248 :0, 248
+207 :0, 207
 section sugawarayuuta/sonnet-8            
-191 :0, 191
+179 :0, 179
 section valyala/fastjson-8                
-66 :0, 66
+79 :0, 79
 ```
 
 ```mermaid
@@ -245,25 +245,25 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                
-1741 :0, 1741
+1794 :0, 1794
 section encoding/json-8                  
-118 :0, 118
+135 :0, 135
 section go-json-experiment/json-8        
-299 :0, 299
+321 :0, 321
 section goccy/go-json-8                  
-732 :0, 732
+804 :0, 804
 section json-iterator/go-8               
-547 :0, 547
+534 :0, 534
 section mailru/easyjson-8                
-1302 :0, 1302
+1149 :0, 1149
 section minio/simdjson-go-8              
-189 :0, 189
+236 :0, 236
 section segmentio/encodinng-8            
-156 :0, 156
+142 :0, 142
 section sugawarayuuta/sonnet-8           
-310 :0, 310
+298 :0, 298
 section valyala/fastjson-8               
-839 :0, 839
+1590 :0, 1590
 ```
 
 ```mermaid
@@ -273,25 +273,25 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                  
-393 :0, 393
+236 :0, 236
 section encoding/json-8                    
-73 :0, 73
+75 :0, 75
 section go-json-experiment/json-8          
-208 :0, 208
+135 :0, 135
 section goccy/go-json-8                    
-253 :0, 253
+223 :0, 223
 section json-iterator/go-8                 
-269 :0, 269
+230 :0, 230
 section mailru/easyjson-8                  
-258 :0, 258
+276 :0, 276
 section minio/simdjson-go-8                
-344 :0, 344
+497 :0, 497
 section segmentio/encodinng-8              
-196 :0, 196
+146 :0, 146
 section sugawarayuuta/sonnet-8             
-265 :0, 265
+287 :0, 287
 section valyala/fastjson-8                 
-103 :0, 103
+139 :0, 139
 ```
 
 ```mermaid
@@ -301,24 +301,24 @@ dateFormat X
 axisFormat %s
 
 section bytedance/sonic-8                
-439 :0, 439
+291 :0, 291
 section encoding/json-8                  
-92 :0, 92
+79 :0, 79
 section go-json-experiment/json-8        
-213 :0, 213
+215 :0, 215
 section goccy/go-json-8                  
-405 :0, 405
+342 :0, 342
 section json-iterator/go-8               
-255 :0, 255
+245 :0, 245
 section mailru/easyjson-8                
-364 :0, 364
+332 :0, 332
 section minio/simdjson-go-8              
-450 :0, 450
+477 :0, 477
 section segmentio/encodinng-8            
-223 :0, 223
+233 :0, 233
 section sugawarayuuta/sonnet-8           
-241 :0, 241
+314 :0, 314
 section valyala/fastjson-8               
-237 :0, 237
+263 :0, 263
 ```
 

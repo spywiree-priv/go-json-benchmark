@@ -91,7 +91,7 @@ func BenchmarkMarshal(b *testing.B) {
 		b.Run(path.Join(data.name, "goccy/go-json"), func(b *testing.B) {
 			fnc := compatTab[data.name]
 			val := fnc()
-			err := goccy.Unmarshal(data.cont, val)
+			err := goccy.UnmarshalNoEscape(data.cont, val)
 			if err != nil {
 				b.Fatal(err)
 			}
@@ -99,7 +99,7 @@ func BenchmarkMarshal(b *testing.B) {
 			b.SetBytes(int64(len(data.cont)))
 			b.ResetTimer()
 			for idx := 0; idx < b.N; idx++ {
-				_, err := goccy.Marshal(val)
+				_, err := goccy.MarshalNoEscape(val)
 				if err != nil {
 					b.Fatal(err)
 				}
@@ -233,7 +233,7 @@ func BenchmarkUnmarshal(b *testing.B) {
 			b.SetBytes(int64(len(data.cont)))
 			b.ResetTimer()
 			for idx := 0; idx < b.N; idx++ {
-				err := goccy.Unmarshal(data.cont, fnc())
+				err := goccy.UnmarshalNoEscape(data.cont, fnc())
 				if err != nil {
 					b.Fatal(err)
 				}
